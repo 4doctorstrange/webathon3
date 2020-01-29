@@ -1,0 +1,180 @@
+body{
+	
+	background-repeat: no-repeat;
+	width:1170px;
+	background-size:cover;
+	background-image:url("maxresdefault.jpg");
+	margin: 0 auto;
+}
+
+.box{
+	width:1170px;
+	margin:0 auto ;
+
+	
+}
+.heading{
+	margin:0 auto;
+	color:floralwhite;
+	text-align:center;
+	font-size:50px;
+	float:left;
+	opacity:0.5px;
+	border-bottom:5px solid floralwhite;
+	margin-top:20px;
+}
+.intro{
+float:left;
+margin-right:100px;
+
+}
+
+ h1{
+	color:floralwhite;
+	font-size:36px;
+	float:left;
+	opacity:0.7;
+	padding-top:30px;
+	border-bottom:2px solid floralwhite;
+}
+.intro-contents
+{
+   font-size:20px;
+   float:left;
+   color:ghostwhite;
+}
+.quote{
+	color:red;
+	opacity:0.5;
+	font-size:27px;
+	font-family:cursive;
+
+}
+h2{
+	color:floralwhite;
+	opacity:0.5;
+	font-size:36px;
+	border-bottom:2px solid floralwhite;
+}
+.challenges{
+	float:left;
+	font-size:20px;
+	color:firebrick;
+     color:ghostwhite;
+
+}
+a{
+	float: right;
+	color: white;
+	background-color:olivedrab;
+	padding: 20px 30px;
+	border-radius: 5px;
+	text-decoration: none;
+	margin-right:20px;
+	margin-top:30px;
+	font-size:22px;
+	opacity:0.7;
+}
+
+a:hover{
+    opacity: 1;
+
+}
+li:hover{
+	background-color:seagreen;
+}
+.kp p:hover{
+	background-color: darkgreen;
+}
+.btn-wrapper{
+	clear:both;
+	float:left;
+}
+h3{
+color:floralwhite;
+	opacity:0.5;
+	font-size:36px;
+	border-bottom:2px solid floralwhite;	
+}
+
+.btn {
+  padding:24px 36px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  margin-left:60px;
+  padding-left:30px;
+
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.signup {
+  background-color: #239b76;
+   font-size:20px;
+}
+
+.facebook {
+  background-color: #3b5998;
+ font-size:20px;
+}
+
+.twitter {
+  background-color: #55acee;
+  font-size:20px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+
+.fa{
+  margin-right:5px;
+}
+
+.others{
+	clear:both;
+}
+.others p{
+
+   font-size:25px;
+   clear:both;
+   color:ghostwhite;
+   opacity:0.7;	
+}
+.others a{
+	float:left;
+	 padding:24px 36px;
+	 background-color:black;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  margin-left:60px;
+  font-size:20px;
+  padding-left:30px;
+}
+
+
+
+textarea{
+   width:400px;
+   margin-top:10px;
+   margin-bottom:20px;
+   padding:20px;
+   font-size:18px;
+   border:1px solid #dee7ec;
+   background-color: black;
+  
+}
+.others a:hover{
+	opacity:1;
+}
